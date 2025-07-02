@@ -5,6 +5,7 @@ Debug Quest addresses this by offering a gamified, AI-driven environment for int
 The platform adapts to individual skill levels and provides real-time suggestions to enhance learning.
 
 
+
 Objectives
 1. Identified a key learning gap among novice programmers, specifically in their ability to effectively debug and resolve errors in code.
 2. Conducted research and comparative analysis of existing platforms such as HackerRank, LeetCode, and Codeforces, which revealed a lack of dedicated features for debugging practice.
